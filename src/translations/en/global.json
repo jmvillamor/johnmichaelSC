@@ -1,0 +1,86 @@
+{
+    "nav": {
+        "about": "About me",
+        "skills": "Skills",
+        "portfolio": "Portfolio",
+        "education": "Education",
+        "contact": "Contact",
+        "language": "Cambiar a Español"
+    },
+
+    "hero": {
+        "description": "Full-Stack Web Developer + Designer",
+        "learn-more": "Learn more"
+    },
+
+    "about-me": {
+        "title": "About me",
+        "description-a": " I am a highly motivated and progress-focused Web Developer with 3 years of background in development and designing ",
+        "description-b": " with specialization in Web Design implementation in a number of themes and builders.",
+        "description-c": " With a track record of initiative and dependability, I have devised strategic initiatives which I believe wiII prove valuable to you.",
+        "description-d": " Throughout the course of my career, I am a capable and consistent problem-solver skilled at prioritizing and managing tasks with proficiency. I am progressive minded and in tune with new developments in my field.",
+        "description-e": " I have proven to be effective and collaborative with strong innovative talents. I enjoy collective brainstorming sessions which we coordinate activities to achieve a common goal.",
+        "description-f": " I would greatly appreciate the opportunity to speak with you and I'm looking forward to join your team.",
+        "cv": "Download CV"
+    },
+
+    "skills": {
+        "title": "My skills",
+        "languages": "Languages",
+        "frameworksAndLibraries": "Frameworks and libraries"
+    },
+
+    "portfolio": {
+        "title": "Portfolio",
+        "descriptions": {
+            "Img2save": "Website to download wallpapers. Powered by unsplash, pixabay and flickr APIs.",
+            "MasPlay": "Website for video game rental business, users can register and earn points to redeem for prizes.",
+            "Guárico": "Website for the Guárico state, located in Venezuela, make with Django.",
+            "Chat messages": "Real time chat using socket.io and react.",
+            "nested-selects": "Library for manage multiple nested <select>, made in vanillajs.",
+            "nested-selects-react": "Component/Library for react that makes it easy to handle multiple nested <select>. Documentation included.",
+            "Mercadoabierto": "A Mercadolibre marketplace clone, browse among many products, you can register to buy or sell",
+            "Aquetasa": "App for calculate the dollar price in Venezuela with different exchange rates.",
+            "LibraryAudio": "Web to download background music tracks that can be used in advertising videos."
+        },
+        "madeWith": "Made with",
+        "github-repos-link": "See more projects",
+        "buttons": {
+            "code": "Code",
+            "live": "Live"
+        }
+    },
+
+    "education": {
+        "title": "Education",
+        "description-a": "Most of my knowledge I have acquired online, I am a self-taught person who trains with courses, tutorials, reading code and above all a lot of practice.",
+        "description-b": "The CMS and Programming Languages that I use the most to train are Wordpress, shopify, liquid, PHP, Html, CSS, Wix, Drupal, Kartra, Volution, Webflow, Javascript.",
+        "subtitle": "Fall in love with my features",
+        "certificates": {
+            "frontend": "WEB Developer + Designer",
+            "backend": "High Rank your SEO",
+            "school": "Domain & Hosting Services",
+            "testing": "Website Content Migration"
+            
+
+        }
+    },
+
+    "contact": {
+        "title": "Contact me",
+        "form": {
+            "name": "Name",
+            "name-placeholder": "name ",
+            "email": "Email",
+            "email-placeholder": "email",
+            "message": "Message",
+            "message-placeholder": "Message",
+            "send": "Send"
+        },
+        "alerts": {
+            "warning": "Please enter all data",
+            "error": "An error has occurred, please enter the data correctly and try again",
+            "success": "Message sent!" 
+        }
+    }
+}
